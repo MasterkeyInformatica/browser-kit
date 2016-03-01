@@ -11,4 +11,4 @@ before_script:
 
 script:
   - mkdir -p build/logs
-  - vendor/bin/phpunit -c phpunit.xml.dist --verbose
+  - vendor/phpunit/phpunit/phpunit -c phpunit.xml.dist --verbose

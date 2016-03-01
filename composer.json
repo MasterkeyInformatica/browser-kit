@@ -21,7 +21,8 @@
     },
     "require-dev": {
         "symfony/process": "~2.8|~3.0",
-        "symfony/css-selector": "~2.8|~3.0"
+        "symfony/css-selector": "~2.8|~3.0",
+        "phpunit/phpunit": "^5.2"
     },
     "suggest": {
         "symfony/process": ""
