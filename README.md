@@ -1,6 +1,8 @@
 BrowserKit Component
 ====================
 
+[![Build Status](https://travis-ci.org/MasterkeyInformatica/browser-kit.svg?branch=master)](https://travis-ci.org/MasterkeyInformatica/browser-kit)
+
 O Symfony Browserkit Component simula o funcionamento de um navegador web.
 
 O componente apenas provê um cliente abstrato e não provê nenhum tipo de *backend*
